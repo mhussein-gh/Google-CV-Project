@@ -87,3 +87,52 @@ input[type="search"]{
   color: rgb(66, 133, 244);
   
 }
+
+.experience-top{
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.website{
+  font-size: 14px;
+  color: rgb(134, 134, 134);
+}
+
+.experience-title{
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px 0px;
+  color: #2414db;
+}
+
+.main{
+  display: flex;
+}
+
+.main-left{
+  display: flex;
+  margin-top: 20px;
+  width: 70%;
+  height: 100%;
+  margin-right: 80px;
+}
+
+.main-right{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  gap: 30px;
+  border: 1px black solid;
+}
+
+.main-subtitle{
+  color: #2414db;
+  font-size: 18px;
+}
+
+.section{
+  font-size: 14px;
+  color: rgb(114, 114, 114);
+}
